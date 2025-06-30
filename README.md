@@ -7,6 +7,7 @@ I'm currently a Senior Software Engineer and team leader, managing a small but m
 - **Tools & Platforms:** Kafka, Redis, Elasticsearch, RabbitMQ, Docker
 - **Testing:** Unit Test, K6, Hey
 - **Architectures:** Clean Architecture, Microservices, DDD
+- - **System Desgin:** 
 
 ### 🚀 Notable Projects & Achievements
 - Led a successful migration from a legacy WebForm CMS to a modular monolith architecture, enabling my company to efficiently run over 20 websites on a unified platform.

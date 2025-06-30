@@ -15,7 +15,7 @@ I'm currently a Senior Software Engineer and team leader, managing a small but m
 - Team leader experienced in guiding and mentoring a small team, fostering collaboration, and delivering high-quality solutions.
 
 ### 🌐 Connect with Me
-- [LinkedIn](#) | [Personal Website](#) | [Email](mailto:congthanh29897@gmail.com)  
+- [LinkedIn](#) | [Personal Website](#) | [congthanh29897@gmail.com](#)  
 
 ---
 

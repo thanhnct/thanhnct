@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Thanh — Senior Software Engineer
+## 👋 Hi, I'm Thanh — Software Engineer
 
 I'm currently a Senior Software Engineer and team leader, managing a small but mighty team of 4 people. My main focus is on web development, and I have a strong passion for designing robust, scalable systems.
 

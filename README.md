@@ -10,7 +10,7 @@ I'm currently a Software Engineer. My main focus is on web development, and I ha
 - **System Design** 
 
 ### 🌐 Connect with Me
-- [LinkedIn](#) | [Personal Website](#) | [congthanh29897@gmail.com](#)  
+- [LinkedIn](#) | [Personal Website](#) 
 
 ---
 
